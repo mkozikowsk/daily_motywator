@@ -1,0 +1,1 @@
+instaloader --login '#account_name#' #profilename# --no-videos --no-video-thumbnails --no-captions --no-metadata-json
