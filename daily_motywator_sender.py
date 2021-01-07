@@ -5,7 +5,7 @@ import pytz
 from telegram.ext import Updater
 from telegram.ext import CommandHandler
 
-telegram_bot_token = "1423168145:AAEZ6OFEv6Oz-478HHIRA2SuCA7XaBYaUDk"
+telegram_bot_token = "#token"
 directory_in_str = 'E:/Repos/tst1/'
 
 updater = Updater(token=telegram_bot_token, use_context=True)
